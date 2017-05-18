@@ -4,4 +4,4 @@
 
 # THIS IS THE SPACE STATION - Vintage! :)
 
-![Image of Branching](space-station.png)
+![Image of Branching](space-station.jpg)
